@@ -1,2 +1,11 @@
-# algorithms-and-projects
-Bem-vindo ao meu hub central de desenvolvimento! Este repositório é o registro vivo da minha evolução. É um portfólio em constante evolução, feito para centralizar meus estudos, testes e projetos profissionais.
+# 🚀 Portfólio de Projetos e Algoritmos
+
+Bem-vindo ao repositório central dos meus projetos de desenvolvimento e implementações em Ciência da Computação. Mantido por **Yuri Gustavo Teixeira**.
+
+## 📂 Estrutura do Repositório
+
+* **`/calculadora-python`**: Calculadora desenvolvida para consolidar lógica de programação e versionamento.
+
+## 🛠️ Tecnologias e Ferramentas
+* Python
+* Git & GitHub
